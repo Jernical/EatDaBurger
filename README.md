@@ -2,7 +2,7 @@
 
 Welcome to JergerHub the dream burger place of all burger lovers. Here you can create your very own burger and eat it too in no time at all.
 
-## Live Link ##
+## Live Link (Down right now still fixing just run the app locally until further notice.) ##
 
 * https://jernical-eatdaburger.herokuapp.com/
 
