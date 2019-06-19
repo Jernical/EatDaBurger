@@ -4,7 +4,7 @@ Welcome to JergerHub the dream burger place of all burger lovers. Here you can c
 
 ## Live Link ##
 
-* https://unc-eatdaburger-app.herokuapp.com/
+* https://jernical-eatdaburger.herokuapp.com/
 
 ## How to setup locally ##
 
